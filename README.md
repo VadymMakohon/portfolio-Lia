@@ -12,7 +12,7 @@ This is the [link](https://github.com/VadymMakohon/portfolio-Lia) to the Github 
 
 ## Sample Website
 
-A live demo is already available via this [link]()
+A live demo is already available via this [link](https://vadymmakohon.github.io/portfolio-Lia/)
 
 ## Tech Stack
 
