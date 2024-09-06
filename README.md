@@ -3,6 +3,7 @@
 This is my portfolio website using HTML,CSS,Javascript
 
 ## Preview
+![preview](https://github.com/user-attachments/assets/fbdda066-56a5-4548-a911-07d1bc5b2907)
 
 ## Github repo
 
