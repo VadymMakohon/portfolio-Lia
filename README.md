@@ -3,11 +3,12 @@
 This is my portfolio website using HTML,CSS,Javascript
 
 ## Preview
+
 ![preview](https://github.com/user-attachments/assets/fbdda066-56a5-4548-a911-07d1bc5b2907)
 
 ## Github repo
 
-This is the [link]() to the Github repo of the project
+This is the [link](https://github.com/VadymMakohon/portfolio-Lia) to the Github repo of the project
 
 ## Sample Website
 
