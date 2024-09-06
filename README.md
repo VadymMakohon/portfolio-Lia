@@ -2,6 +2,8 @@
 
 This is my portfolio website using HTML,CSS,Javascript
 
+## Preview
+
 ## Github repo
 
 This is the [link]() to the Github repo of the project
