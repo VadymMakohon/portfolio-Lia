@@ -25,4 +25,6 @@ Below are are list of tools used, and the precise things they were used for:
 - [Animate CSS](https://animate.style/) for Jane Doe's bio text animation
 - [Formspree](https://formspree.io/) for contact form submision and straight delivery to Gmail
 
-## Contributed
+# Contributors
+
+- [Vadym Makohon](https://github.com/VadymMakohon)
